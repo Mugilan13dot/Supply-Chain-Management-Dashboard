@@ -71,4 +71,4 @@ This dashboard empowers supply chain managers with the visibility they need to o
 ---
 
 📊 File: `Supply_Chain_Management_Dashboard.pbix`  
-🔗 Want to explore the interactive dashboard? [Coming soon via Power BI Service Deployment]
+
