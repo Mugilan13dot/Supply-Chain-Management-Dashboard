@@ -18,35 +18,41 @@ Efficient supply chain management is crucial to minimize costs, meet customer de
 ## 📊 The Analysis
 
 ### 🔹 Dashboard Sections:
-1. **Overview**  
+1. **Overview**
    - Total Orders, Shipments, and Inventory Value  
    - Key KPIs like Order Accuracy, On-Time Delivery Rate
+![Overview](Assets/Overview.png)
 
-2. **Inventory Management**  
+3. **Inventory Management**  
    - Inventory turnover rate  
    - Stock by product category and warehouse location  
    - Aging inventory heatmap  
+![Inventory_Management](Assets/Inventory_Management.png)
 
-3. **Order Fulfillment**  
+4. **Order Fulfillment**  
    - Fulfillment cycle time  
    - Order status tracking (Pending, Shipped, Delayed)  
    - Customer order fill rate  
+![Order_Fulfillment](Assets/Order_Fulfillment.png)
 
-4. **Supplier Performance**  
+5. **Supplier Performance**  
    - Supplier defect rate  
    - On-time delivery by supplier  
    - Cost vs. Quality comparison (scatter plot)  
    - Total cost vs. defect rate visualization
+![Supplier_Performance](Assets/Supplier_Performance.png)
 
-5. **Transportation Efficiency**  
+6. **Transportation Efficiency**  
    - Average shipment cost per km  
    - Delivery time by region  
    - On-time delivery trend line  
+![Transportation_Efficiency](Assets/Transportation_Efficiency.png)
 
-6. **Supply Chain Costs**  
+7. **Supply Chain Costs**  
    - Cost breakdown (Logistics, Procurement, Warehousing)  
    - Monthly trend of total supply chain costs  
    - Cost efficiency scorecard
+![SupplyChain_Costs](Assets/SupplyChain_Costs.png)
 
 > 📌 Filters added: Date Range, Product Category, Region, Supplier, Order Status
 
