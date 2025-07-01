@@ -2,6 +2,8 @@
 
 ## 📌 Introduction
 This Power BI dashboard project provides a comprehensive overview of supply chain operations. It focuses on key performance indicators (KPIs) such as inventory levels, order fulfillment rates, supplier performance, and transportation efficiency to enable data-driven decision-making.
+ 
+📍 View the dashboard here: [SupplyChainManagementDashboard](/Supply_Chain_Management_Dashboard.pbix/)
 
 ## 📚 Background
 Efficient supply chain management is crucial to minimize costs, meet customer demand, and maintain a competitive advantage. This project aims to:
